@@ -1,7 +1,3 @@
-This repository is the source for http://gary.burd.info/go-websocket-chat.
-
-Copyright (c) 2013 Gary Burd
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
